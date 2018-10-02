@@ -38,7 +38,7 @@ public class ActionListenerSample2 {
                 JOptionPane.showMessageDialog(null,"HelloWorld");
             }
         
-    }
+    });
         //////////////////////////////////////////////////////
         frame.add(button);
         
