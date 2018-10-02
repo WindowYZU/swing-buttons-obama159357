@@ -45,6 +45,8 @@ public class CheckboxSample {
             }
             
         };
+        check1.addActionListener(Listener);
+        check2.addActionListener(Listener);
         ////////////////////////////////////////
         frame.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
         frame.setVisible(true);
